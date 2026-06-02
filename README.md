@@ -40,17 +40,12 @@
 <img align="right" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 ```yaml
-name        : Rishi Gnanasekar
-degree      : MS Data Science @ University of Michigan  (GPA 3.8)
-focus       : LLM Fine-Tuning · Agentic AI · RAG Systems · MLOps
-experience  : 3+ years  (research + startup + industry)
-current     :
-  - Graduate Research Assistant — LLM fine-tuning for psych NLP
-  - Founder & AI Engineer @ SERA AI  (mental-health LLM MVP)
-interests   : NLP · Healthcare AI · Autonomous Agents · MLOps
-location    : Michigan, USA
-open_to     : AI Engineer / ML Engineer / Data Scientist roles
-contact     : rishigs@umich.edu
+- M.S. Data Science @ University of Michigan
+- Graduate Research Assistant working on LLM fine-tuning for psychological NLP
+- Founder & AI Engineer at SERA AI, developing AI-powered mental health solutions
+- 3+ years of experience across research, startups, and industry projects
+- 🌎 Based in USA
+- Open to AI Engineer, ML Engineer, and Data Scientist opportunities
 ```
 
 <br/><br/>
