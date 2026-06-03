@@ -13,7 +13,7 @@
 <!-- ===================== TYPING HEADER ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=7C5CFF&center=true&vCenter=true&multiline=false&width=780&lines=Building+LLM+systems+that+reason%2C+retrieve%2C+and+act;LoRA+fine-tuning+%E2%80%A2+LangGraph+agents+%E2%80%A2+RAG+pipelines;MS+Data+Science+%40+University+of+Michigan+%7C+GPA+3.8;](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=7C5CFF&center=true&vCenter=true&multiline=false&width=780&lines=Building+LLM+systems+that+reason%2C+retrieve%2C+and+act;LoRA+fine-tuning+%E2%80%A2+LangGraph+agents+%E2%80%A2+RAG+pipelines;MS+Data+Science+%40+University+of+Michigan+%7C+GPA+3.8](https://git.io/typing-svg)
 
 </div>
 
