@@ -44,8 +44,7 @@
 - Graduate Research Assistant working on LLM fine-tuning for psychological NLP
 - Founder & AI Engineer at SERA AI, developing AI-powered mental health solutions
 - 3+ years of experience across research, startups, and industry projects
-- 🌎 Based in USA
-- Open to AI Engineer, ML Engineer, and Data Scientist opportunities
+- Based in USA
 ```
 
 <br/><br/>
@@ -308,6 +307,6 @@ DevOps   : Docker · CI/CD · IAM · REST APIs
 
 <div align="center">
 
-*"The goal of AI is not to replace human thinking — but to augment it."*
+*"The goal of AI is not to replace human thinking but to augment it."*
 
 </div>
